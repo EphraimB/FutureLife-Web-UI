@@ -1,2 +1,6 @@
 a:link{color: purple;}
 a:hover{text-decoration: none;}
+
+.widget-small{width: 250px; height: 250px; border: 2px solid black;}
+.widget-medium{width: 500px; height: 500px; border: 2px solid black;}
+.widget-large{width: 1000px; height: 1000px; border: 2px solid black;}
