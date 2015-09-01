@@ -3,4 +3,4 @@
 # Reference
 
 # To create a Widget
-<div class="widget-[small, medium, or large]"></div
+ <div class="widget-[small, medium, or large]"></div>
