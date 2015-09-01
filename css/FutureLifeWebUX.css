@@ -1,6 +1,7 @@
 /*Out of the box experience*/
 body{background-color: red; color: white;}
 h1, h2, h3, h4, h5, h6{text-align: center;}
+p{text-indent: 50px;}
 a:link{color: purple;}
 a:hover{text-decoration: none;}
 
@@ -15,3 +16,4 @@ a:hover{text-decoration: none;}
 /*Notifications*/
 .Notification{top: 50px; width: 300px; height: 100px; color: purple; background-color: white; text-align: center; vertical-align: middle; line-height: 100px; position: relative;}
 
+/*Text formatting*/
