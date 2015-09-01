@@ -1,6 +1,6 @@
-# FutureLife-Web-UX
+<h1>FutureLife-Web-UX<h1>
 
-# Reference
+<h2>Reference</h2>
 
-# To create a Widget
+<h3>To create a Widget</h3>
 <p>&ltdiv class="widget-[small, medium, or large]"&gt&lt/div&gt</p>
