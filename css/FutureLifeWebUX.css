@@ -10,10 +10,4 @@ a:hover{text-decoration: none;}
 .Widget-Medium{width: 500px; height: 500px; border: 2px solid black; border-radius: 25px; background-color: purple;}
 .Widget-Large{width: 1000px; height: 1000px; border: 2px solid black; border-radius: 25px; background-color: purple;}
 
-/*Notification Center*/
-.NotificationCenter{top: 0px; bottom: 0px; right: 0px; width: 300px; border: 1px solid black; border-radius: 5px; background-color: gray; position: absolute;}
-
-/*Notifications*/
-.Notification{top: 50px; width: 300px; height: 100px; color: purple; background-color: white; text-align: center; vertical-align: middle; line-height: 100px; position: relative;}
-
 /*Text formatting*/
